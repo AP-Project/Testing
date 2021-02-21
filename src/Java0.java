@@ -4,6 +4,7 @@ import static java.lang.System.out;
 
 public class Java0 {
     public static void main(String[] args){
+    	System.out.println("Erfan");
         Scanner scanner = new Scanner(System.in);
         int X = scanner.nextInt();
         int N = scanner.nextInt();
